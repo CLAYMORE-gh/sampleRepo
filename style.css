@@ -1,0 +1,46 @@
+.top{
+    background-color: orange;
+    padding: 18px;
+}
+
+h1{
+  text-align: center;  
+}
+button{
+    border: 0;
+}
+.ginger{
+    background-color: #BE5504;
+    display: inline;
+    margin-left: 64px; 
+    padding: 5px;
+}
+
+.tangerine{
+    background-color: #FA8128;
+    display: inline;
+    margin-left: 64px; 
+    padding: 5px;
+}
+
+.meri{
+    background-color: #FCAE1E;
+    display: inline;
+    margin-left: 64px; 
+    padding: 5px;
+}
+.rust{
+    background-color: #8D4004;
+    display: inline;
+    margin-left: 64px; 
+    padding: 5px;
+}
+.honey{
+    background-color: #EC9706;
+    display: inline;
+    margin-left: 64px; 
+    padding: 5px;
+}
+body{
+    margin-left: 5px;
+}
